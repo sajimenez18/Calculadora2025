@@ -2,9 +2,11 @@
 
 #calculadora{
     width: 40rem;
-    height: 70rem;
-    border: 1px solid black;
+    height: 73rem;
+    border: 12px solid rgb(245, 74, 74);
+    border-radius: 1rem;
     
     margin: auto;
     margin-top: 10rem;
+    margin-bottom: 10rem;
 }
